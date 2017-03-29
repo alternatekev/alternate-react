@@ -1,0 +1,19 @@
+{
+  "name": "alternate-react",
+  "version": "0.0.1",
+  "description": "React-based re-building of the WordPress theme powering Alternate.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alternatekev/alternate-react.git"
+  },
+  "author": "Kevin Conboy",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/alternatekev/alternate-react/issues"
+  },
+  "homepage": "https://github.com/alternatekev/alternate-react#readme"
+}
