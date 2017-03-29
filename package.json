@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/alternatekev/alternate-react/issues"
   },
-  "homepage": "https://github.com/alternatekev/alternate-react#readme"
+  "homepage": "https://github.com/alternatekev/alternate-react#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "next": "^2.0.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
 }
